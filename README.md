@@ -1,7 +1,7 @@
 # LAPIS Semiconductor: 16 Bit Microcontroller General Repository Page
 ![alt text](http://www.lapis-semi.com/en/semicon/miconlp/images/hp-mcu_title_en@2x.gif "LAPIS LPMCU Banner")
 
-* Description:  This repository will be used to post information about Lapis's 16 bit Microcontroller line.  As sample projects are developed for the 16bit MCU Lineup, this page will be updated with links to those projects
+* Description:  This repository will be used to post information about LAPIS Semiconductor's 16 bit Microcontroller line.  As sample projects are developed for the 16bit MCU Lineup, this page will be updated with links to those projects
 * Developer: USDC Applications Engineering Team, ROHM Semiconductor
 * Repository Generated: February 2016
 
@@ -20,7 +20,7 @@
 * [Documentation](http://www.lapis-semi.com/en/semicon/miconlp/hp-mcu.html#um|TabPage3)
 * [Support Tools Explaination](http://www.lapis-semi.com/en/semicon/miconlp/software.html)
 * [Support Tools Portal](https://www.lapis-semi.com/cgi-bin/MyLAPIS/regi/login.cgi)
-*Note: when using the support tools protal, please allow up to 24 hours for the Lapis Semiconductor Team to complete registration.
+*Note: when using the support tools portal, please allow up to 24 hours for the Lapis Semiconductor Team to complete registration.
 
 -----
 ### LAPIS 16 bit Microcontroller Project Examples
@@ -39,14 +39,12 @@ as long as you abide by the terms and conditions of this DISCLAIMER.
 However, you are not authorized to sell, loan, rent, lease, redistribute or license this Technical Data, 
 in whole or in part, or in modified form, to anyone.
 
-You may modify this Technical Data to suit your specific applications, 
-but the rights to derivative works and said modifications shall belong to ROHM. 
+You may modify this Technical Data to suit your specific applications, but the rights to derivative works and said modifications shall belong to ROHM. 
 
 You may make copies of this Technical Data as necessary for internal use only within your company.
 
 ROHM shall not be responsible for ensuring proper application on all computer systems.
-This Technical Data is provided AS IS. ROHM makes no guarantees, either implicitly or explicitly, 
-regarding its usability, functionality, accuracy, merchantability, or fitness for a specific purpose.
+This Technical Data is provided AS IS. ROHM makes no guarantees, either implicitly or explicitly, regarding its usability, functionality, accuracy, merchantability, or fitness for a specific purpose.
 
 In addition, you shall take full responsibility for the use of any information acquired from this Technical Data. 
 
@@ -57,7 +55,6 @@ OR PUNITIVE DAMAGES) ARISING OUT OF OR IN CONNECTION WITH THE USE OR APPLICATION
 
 Furthermore, this Technical Data is subject to change without notice.
 
-Unless otherwise expressly provided herein, ROHM does not convey any license under patent rights 
-or any other intellectual property rights (including those of third parties).
+Unless otherwise expressly provided herein, ROHM does not convey any license under patent rights or any other intellectual property rights (including those of third parties).
 
 ROHM is not obligated to provide maintenance or support for the Technical Data.
