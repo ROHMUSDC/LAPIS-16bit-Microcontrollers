@@ -26,6 +26,7 @@
 ### LAPIS 16 bit Microcontroller Project Examples
 * Core function block examples can be found and downloaded from the LAPIS [Support Tools Portal](https://www.lapis-semi.com/cgi-bin/MyLAPIS/regi/login.cgi).  
 * Miscellaneous projects developed using this MCU are coming soon and will be referenced here!
+
 ----
 ### DISCLAIMER
 If you have been given access to this repository and are not part of the ROHM organization, all materials in this repository are protected under NDA.
