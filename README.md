@@ -59,3 +59,4 @@ Furthermore, this Technical Data is subject to change without notice.
 Unless otherwise expressly provided herein, ROHM does not convey any license under patent rights or any other intellectual property rights (including those of third parties).
 
 ROHM is not obligated to provide maintenance or support for the Technical Data.
+x
